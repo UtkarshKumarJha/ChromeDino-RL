@@ -31,8 +31,7 @@ Chrome-Dino-Runner/
 │   ├── Cactus/
 │   ├── Bird/
 │   └── Other/
-├── chromedino.py              # Game entity logic and rendering
-├── dino_env.py                # Gymnasium-compatible custom environment
+├── dino_env.py                # Gymnasium-compatible custom environment and game logic
 ├── train_agent.py             # RL agent training script (PPO, etc.)
 ├── test_agent.py              # Run the trained agent
 └── README.md                  # Project documentation
